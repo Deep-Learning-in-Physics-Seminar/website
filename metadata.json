@@ -1,0 +1,5 @@
+{
+  "name": "Score-Based Generative Modeling Demos",
+  "description": "Interactive visualizations demonstrating the concepts behind Score-Based Generative Modeling, starting with the score function of data distributions.",
+  "requestFramePermissions": []
+}
